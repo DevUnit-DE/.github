@@ -1,2 +1,2 @@
 # .github
-Unsere Persöhnliche Repo bzw. Bio!
+Unsere persöhnliche Repo bzw. Bio!
